@@ -74,3 +74,5 @@ features[variable][] = menu_parent_vih_short_course_family
 features[variable][] = node_options_vih_short_course_family
 features[variable][] = node_preview_vih_short_course_family
 features[variable][] = node_submitted_vih_short_course_family
+
+files[] = vih_short_course_family.migrate.inc
