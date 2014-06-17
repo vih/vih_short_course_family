@@ -59,16 +59,19 @@ function vih_short_course_family_defaultconfig_strongarm() {
     'extra_fields' => array(
       'form' => array(
         'metatags' => array(
-          'weight' => '11',
+          'weight' => '12',
         ),
         'title' => array(
           'weight' => '0',
         ),
         'path' => array(
-          'weight' => '10',
+          'weight' => '11',
         ),
         'redirect' => array(
-          'weight' => '9',
+          'weight' => '10',
+        ),
+        'xmlsitemap' => array(
+          'weight' => '13',
         ),
       ),
       'display' => array(
