@@ -65,17 +65,26 @@ function vih_short_course_family_strongarm() {
             'weight' => '12',
             'visible' => FALSE,
           ),
+          'teaser' => array(
+            'weight' => '6'
+          ),
         ),
         'product:title' => array(
           'default' => array(
             'weight' => '13',
             'visible' => FALSE,
           ),
+          'teaser' => array(
+            'weight' => '7'
+          ),
         ),
         'product:commerce_price' => array(
           'default' => array(
             'weight' => '9',
             'visible' => FALSE,
+          ),
+          'teaser' => array(
+            'weight' => '5'
           ),
         ),
         'product:field_entity_registration' => array(
@@ -95,17 +104,26 @@ function vih_short_course_family_strongarm() {
             'weight' => '10',
             'visible' => FALSE,
           ),
+          'teaser' => array(
+            'weight' => '4'
+          ),
         ),
         'product:status' => array(
           'default' => array(
             'weight' => '8',
             'visible' => FALSE,
           ),
+          'teaser' => array(
+            'weight' => '14'
+          ),
         ),
         'product:commerce_stock' => array(
           'default' => array(
             'weight' => '7',
             'visible' => FALSE,
+          ),
+          'teaser' => array(
+            'weight' => '3'
           ),
         ),
       ),
