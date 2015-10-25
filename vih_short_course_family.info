@@ -1,5 +1,5 @@
 name = VIH Short Course Family
-description = Used for family courses with only one room type and different age groups.
+description = Handles short family courses with only one room type and different age groups.
 core = 7.x
 package = VIH
 version = 7.x-0.1
