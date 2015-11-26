@@ -10,7 +10,8 @@
 function vih_short_course_family_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance: 'commerce_line_item-vih_short_course_family-commerce_display_path'
+  // Exported field_instance:
+  // 'commerce_line_item-vih_short_course_family-commerce_display_path'
   $field_instances['commerce_line_item-vih_short_course_family-commerce_display_path'] = array(
     'bundle' => 'vih_short_course_family',
     'default_value' => NULL,
@@ -56,7 +57,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_line_item-vih_short_course_family-commerce_product'
+  // Exported field_instance:
+  // 'commerce_line_item-vih_short_course_family-commerce_product'
   $field_instances['commerce_line_item-vih_short_course_family-commerce_product'] = array(
     'bundle' => 'vih_short_course_family',
     'default_value' => NULL,
@@ -117,7 +119,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_line_item-vih_short_course_family-commerce_total'
+  // Exported field_instance:
+  // 'commerce_line_item-vih_short_course_family-commerce_total'
   $field_instances['commerce_line_item-vih_short_course_family-commerce_total'] = array(
     'bundle' => 'vih_short_course_family',
     'default_value' => NULL,
@@ -187,7 +190,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_line_item-vih_short_course_family-commerce_unit_price'
+  // Exported field_instance:
+  // 'commerce_line_item-vih_short_course_family-commerce_unit_price'
   $field_instances['commerce_line_item-vih_short_course_family-commerce_unit_price'] = array(
     'bundle' => 'vih_short_course_family',
     'default_value' => NULL,
@@ -257,7 +261,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_line_item-vih_short_course_family-field_cpr_nummer'
+  // Exported field_instance:
+  // 'commerce_line_item-vih_short_course_family-field_cpr_nummer'
   $field_instances['commerce_line_item-vih_short_course_family-field_cpr_nummer'] = array(
     'bundle' => 'vih_short_course_family',
     'commerce_cart_settings' => array(
@@ -342,7 +347,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_line_item-vih_short_course_family-field_registrant_name'
+  // Exported field_instance:
+  // 'commerce_line_item-vih_short_course_family-field_registrant_name'
   $field_instances['commerce_line_item-vih_short_course_family-field_registrant_name'] = array(
     'bundle' => 'vih_short_course_family',
     'commerce_cart_settings' => array(
@@ -407,7 +413,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_product-vih_short_course_family-commerce_price'
+  // Exported field_instance:
+  // 'commerce_product-vih_short_course_family-commerce_price'
   $field_instances['commerce_product-vih_short_course_family-commerce_price'] = array(
     'bundle' => 'vih_short_course_family',
     'default_value' => NULL,
@@ -543,7 +550,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_product-vih_short_course_family-commerce_stock'
+  // Exported field_instance:
+  // 'commerce_product-vih_short_course_family-commerce_stock'
   $field_instances['commerce_product-vih_short_course_family-commerce_stock'] = array(
     'bundle' => 'vih_short_course_family',
     'default_value' => array(
@@ -610,7 +618,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_product-vih_short_course_family-field_agegroup'
+  // Exported field_instance:
+  // 'commerce_product-vih_short_course_family-field_agegroup'
   $field_instances['commerce_product-vih_short_course_family-field_agegroup'] = array(
     'bundle' => 'vih_short_course_family',
     'commerce_cart_settings' => array(
@@ -799,6 +808,7 @@ function vih_short_course_family_field_default_field_instances() {
           'multiple_from' => '',
           'multiple_number' => '',
           'multiple_to' => '',
+          'show_remaining_days' => FALSE,
         ),
         'type' => 'date_default',
         'weight' => 3,
@@ -824,6 +834,7 @@ function vih_short_course_family_field_default_field_instances() {
           'multiple_from' => '',
           'multiple_number' => '',
           'multiple_to' => '',
+          'show_remaining_days' => FALSE,
         ),
         'type' => 'date_default',
         'weight' => 1,
@@ -904,7 +915,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-vih_short_course_family-field_featured_image'
+  // Exported field_instance:
+  // 'node-vih_short_course_family-field_featured_image'
   $field_instances['node-vih_short_course_family-field_featured_image'] = array(
     'bundle' => 'vih_short_course_family',
     'deleted' => 0,
@@ -1169,7 +1181,8 @@ function vih_short_course_family_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-vih_short_course_family-field_short_course_lecture'
+  // Exported field_instance:
+  // 'node-vih_short_course_family-field_short_course_lecture'
   $field_instances['node-vih_short_course_family-field_short_course_lecture'] = array(
     'bundle' => 'vih_short_course_family',
     'default_value' => NULL,

@@ -78,7 +78,7 @@ function vih_short_course_family_defaultconfig_strongarm() {
             'visible' => FALSE,
           ),
           'teaser' => array(
-            'weight' => '6',
+            'weight' => '-10',
             'visible' => FALSE,
           ),
         ),
@@ -88,7 +88,7 @@ function vih_short_course_family_defaultconfig_strongarm() {
             'visible' => FALSE,
           ),
           'teaser' => array(
-            'weight' => '7',
+            'weight' => '-5',
             'visible' => FALSE,
           ),
         ),
@@ -98,7 +98,7 @@ function vih_short_course_family_defaultconfig_strongarm() {
             'visible' => FALSE,
           ),
           'teaser' => array(
-            'weight' => '5',
+            'weight' => '0',
             'visible' => FALSE,
           ),
         ),
@@ -120,7 +120,7 @@ function vih_short_course_family_defaultconfig_strongarm() {
             'visible' => FALSE,
           ),
           'teaser' => array(
-            'weight' => '4',
+            'weight' => '43',
             'visible' => FALSE,
           ),
         ),
@@ -130,7 +130,7 @@ function vih_short_course_family_defaultconfig_strongarm() {
             'visible' => FALSE,
           ),
           'teaser' => array(
-            'weight' => '14',
+            'weight' => '5',
             'visible' => FALSE,
           ),
         ),
@@ -140,7 +140,7 @@ function vih_short_course_family_defaultconfig_strongarm() {
             'visible' => FALSE,
           ),
           'teaser' => array(
-            'weight' => '3',
+            'weight' => '44',
             'visible' => FALSE,
           ),
         ),
