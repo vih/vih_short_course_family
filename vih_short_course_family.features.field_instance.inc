@@ -9,7 +9,7 @@
  */
 function vih_short_course_family_field_default_field_instances() {
   $field_instances = array();
-r
+
   // Exported field_instance:
   // 'commerce_line_item-vih_short_course_family-commerce_display_path'
   $field_instances['commerce_line_item-vih_short_course_family-commerce_display_path'] = array(
