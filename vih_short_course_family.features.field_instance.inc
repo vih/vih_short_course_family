@@ -625,7 +625,7 @@ function vih_short_course_family_field_default_field_instances() {
     'commerce_cart_settings' => array(
       'attribute_field' => 1,
       'attribute_widget' => 'radios',
-      'attribute_widget_title' => 'Aldersgruppe'
+      'attribute_widget_title' => 'Aldersgruppe',
     ),
     'default_value' => NULL,
     'deleted' => 0,
